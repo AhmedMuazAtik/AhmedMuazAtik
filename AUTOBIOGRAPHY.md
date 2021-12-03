@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AhmedMuazAtik
-- 👀 I’m interested in Embedded Systems and Producing Robotic Devices.
+- 👀 I’m interested in Embedded Systems, Producing Robotic Devices and Artificial Intelligence.
 - 🌱 I’m currently learning Java and Arduino.
 - 💞️ I’m looking to collaborate on every type of codes.
 - 📫 How to reach me: ahmedmuazatiktr@gmail.com
