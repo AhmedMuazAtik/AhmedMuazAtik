@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AhmedMuazAtik
-- 👀 I’m interested in Embedded Systems, Producing Robotic Devices and Artificial Intelligence.
-- 🌱 I’m currently learning Java and Arduino.
+- 👀 I’m interested in GUI Design, Embedded Systems and Artificial Intelligence.
+- 🌱 I have experienced on Java, Kotlin, C, C++, C#, Arduino, Python, Flutter, Html, CSS, Javascript, React.
 - 💞️ I’m looking to collaborate on every type of codes.
 - 📫 How to reach me: ahmedmuazatiktr@gmail.com
 
